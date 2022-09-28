@@ -1,0 +1,3 @@
+#将.m记为Matlab
+*.m linguist-language=matlab
+*.cs linguist-language=c#
